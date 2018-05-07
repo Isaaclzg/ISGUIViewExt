@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ISGUIViewExt_Example' do
+  pod 'ISGUIViewExt', :path => '../'
+
+  target 'ISGUIViewExt_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
