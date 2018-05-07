@@ -1,0 +1,6 @@
+framework module ISGUIViewExt {
+  umbrella header "ISGUIViewExt-umbrella.h"
+
+  export *
+  module * { export * }
+}

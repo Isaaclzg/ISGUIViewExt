@@ -1,0 +1,6 @@
+framework module Pods_ISGUIViewExt_Example {
+  umbrella header "Pods-ISGUIViewExt_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
