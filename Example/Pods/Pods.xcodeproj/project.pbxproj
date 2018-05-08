@@ -9,16 +9,15 @@
 /* Begin PBXBuildFile section */
 		0882509A4B23EEE2DA28476D029C9EF8 /* Pods-ISGUIViewExt_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 30BBD1034F22AD10BBC7067AAF1C67FA /* Pods-ISGUIViewExt_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		1088D769E06CBD90C07AC319AFA388D1 /* Pods-ISGUIViewExt_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = B9D39830A4C87C8FC86DDBEDD3F29900 /* Pods-ISGUIViewExt_Tests-dummy.m */; };
-		31E30C3D5B0564AD93B105A6FAE6355C /* ISGUIViewExt-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 577A283286474EF06B4BF5EB74CE29AA /* ISGUIViewExt-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		450EB4AE175DEC714F838B330188153F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D88AAE1F92055A60CC2FC970D7D34634 /* Foundation.framework */; };
-		56126AEAC306599BB9A2DC403891A7C6 /* ISGUIViewExt.h in Headers */ = {isa = PBXBuildFile; fileRef = 9F1379AD9A4F7FD47F5252CA76466F5B /* ISGUIViewExt.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		474DDBA559480718BE13E1B29C89BA57 /* ISGUIViewExt.h in Headers */ = {isa = PBXBuildFile; fileRef = 9F1379AD9A4F7FD47F5252CA76466F5B /* ISGUIViewExt.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		4B1E50F6F8C97F0136780D5887D0C99D /* ISGUIViewExt-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 577A283286474EF06B4BF5EB74CE29AA /* ISGUIViewExt-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		563EE9173FE69AB20F6AFB625CBFBA11 /* Pods-ISGUIViewExt_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 63C5359186AB2076EE7913A54F4F177D /* Pods-ISGUIViewExt_Example-dummy.m */; };
-		5A1EC1BE2BD4296B73231BE9DDF33DA3 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D88AAE1F92055A60CC2FC970D7D34634 /* Foundation.framework */; };
-		77349825C41ABD07C88CE91FFBE367C5 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B63C6A64CF66340668996F78DA6BB482 /* UIKit.framework */; };
-		77E1E46778FF79A8B4B1796C86139C86 /* ISGUIViewExt.m in Sources */ = {isa = PBXBuildFile; fileRef = FCDBFB6427C957FCE876EACD0FB025DC /* ISGUIViewExt.m */; };
-		7FA2A0C69EEEE0FC8C299D6BE9B5A403 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D88AAE1F92055A60CC2FC970D7D34634 /* Foundation.framework */; };
-		B2F5D9BB17ABB90AFCEDDE5E0FF4BDE1 /* ISGUIViewExt-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = F583BDCFF5254F6A6531D807EB9311D6 /* ISGUIViewExt-dummy.m */; };
+		5A1EC1BE2BD4296B73231BE9DDF33DA3 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
+		7FA2A0C69EEEE0FC8C299D6BE9B5A403 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
+		B6B69D51D85C49637CC974D83DB3136D /* ISGUIViewExt.m in Sources */ = {isa = PBXBuildFile; fileRef = FCDBFB6427C957FCE876EACD0FB025DC /* ISGUIViewExt.m */; };
+		CC7D70671D980E4BEA19442B2E7125E5 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
 		D60A3292183939E7C40CEAB15AE9D3FA /* Pods-ISGUIViewExt_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 96B77D31BAEB8494C17715065D5DF001 /* Pods-ISGUIViewExt_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FD118DFFB63AB31A5DA417717C943281 /* ISGUIViewExt-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = F583BDCFF5254F6A6531D807EB9311D6 /* ISGUIViewExt-dummy.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -26,7 +25,7 @@
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 1ABCA85588DA99D3F0207115382BEC75;
+			remoteGlobalIDString = 47D6C0E61EEEC53B5B2D8869502F063B;
 			remoteInfo = ISGUIViewExt;
 		};
 /* End PBXContainerItemProxy section */
@@ -41,6 +40,7 @@
 		577A283286474EF06B4BF5EB74CE29AA /* ISGUIViewExt-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ISGUIViewExt-umbrella.h"; sourceTree = "<group>"; };
 		5E3FBF0CC8271A40F90FC29B1CBB7F5B /* ISGUIViewExt-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ISGUIViewExt-prefix.pch"; sourceTree = "<group>"; };
 		63C5359186AB2076EE7913A54F4F177D /* Pods-ISGUIViewExt_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ISGUIViewExt_Example-dummy.m"; sourceTree = "<group>"; };
+		6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		80ECAF514ABFC6A1EF2548633E086F91 /* Pods-ISGUIViewExt_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ISGUIViewExt_Example-frameworks.sh"; sourceTree = "<group>"; };
 		818ADDED002B31681137127F0F7EB52A /* Pods-ISGUIViewExt_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-ISGUIViewExt_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		8F61374566032104D013FB3D686282F7 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
@@ -53,7 +53,6 @@
 		A63E38E5CA3386648707722CFF8B5883 /* Pods-ISGUIViewExt_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ISGUIViewExt_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		A6CAC0ECC9DBDFFC65DEA4717EBEE42D /* ISGUIViewExt.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; path = ISGUIViewExt.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		B2334B9613E569CF86C4539260CF69B7 /* Pods-ISGUIViewExt_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ISGUIViewExt_Example.release.xcconfig"; sourceTree = "<group>"; };
-		B63C6A64CF66340668996F78DA6BB482 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
 		B730A3683A223D1BEC9973C7F9AE993D /* Pods-ISGUIViewExt_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-ISGUIViewExt_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		B7B14E8ADACD1BAB574BF40326CA4794 /* ISGUIViewExt.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = ISGUIViewExt.xcconfig; sourceTree = "<group>"; };
 		B8CD778C65DAC0D355ABDA26BDBEAB35 /* Pods-ISGUIViewExt_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ISGUIViewExt_Tests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -62,7 +61,6 @@
 		C194E6A9E61B8EDB5B34EBADD5FD9CD0 /* Pods-ISGUIViewExt_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-ISGUIViewExt_Example.modulemap"; sourceTree = "<group>"; };
 		C3D103DB15A6459F9233A9179A80F47D /* Pods-ISGUIViewExt_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ISGUIViewExt_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		C6CF048C411D44F593C6B3BEC1C00137 /* ISGUIViewExt.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = ISGUIViewExt.modulemap; sourceTree = "<group>"; };
-		D88AAE1F92055A60CC2FC970D7D34634 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		E0D716DFAE5CA33648D04B9058A38A96 /* Pods-ISGUIViewExt_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ISGUIViewExt_Tests-resources.sh"; sourceTree = "<group>"; };
 		E824C59C6D0693982C02DA3737D00C85 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		ECB2A1DBE9137EEB0D5D56BE2EA98B67 /* Pods-ISGUIViewExt_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ISGUIViewExt_Example-resources.sh"; sourceTree = "<group>"; };
@@ -80,12 +78,11 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		B3219E1A4F1B982F5F18C2A78DEBCE68 /* Frameworks */ = {
+		EDD77B3BFA7FCA8C30F791019707B31A /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				450EB4AE175DEC714F838B330188153F /* Foundation.framework in Frameworks */,
-				77349825C41ABD07C88CE91FFBE367C5 /* UIKit.framework in Frameworks */,
+				CC7D70671D980E4BEA19442B2E7125E5 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -107,23 +104,6 @@
 				7419A84A2668DD77866A672CE24C2B80 /* Pods-ISGUIViewExt_Tests */,
 			);
 			name = "Targets Support Files";
-			sourceTree = "<group>";
-		};
-		433CD3331B6C3787F473C941B61FC68F /* Frameworks */ = {
-			isa = PBXGroup;
-			children = (
-				438B396F6B4147076630CAEFE34282C1 /* iOS */,
-			);
-			name = Frameworks;
-			sourceTree = "<group>";
-		};
-		438B396F6B4147076630CAEFE34282C1 /* iOS */ = {
-			isa = PBXGroup;
-			children = (
-				D88AAE1F92055A60CC2FC970D7D34634 /* Foundation.framework */,
-				B63C6A64CF66340668996F78DA6BB482 /* UIKit.framework */,
-			);
-			name = iOS;
 			sourceTree = "<group>";
 		};
 		5088C81AA9B19986F5A0E371E41B57EB /* Support Files */ = {
@@ -163,7 +143,7 @@
 			children = (
 				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
 				BFB9672A365EEB7548320D05CF1C3DF3 /* Development Pods */,
-				433CD3331B6C3787F473C941B61FC68F /* Frameworks */,
+				BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */,
 				9AB7C4C6791B174E7BCE22CF2D4B69A1 /* Products */,
 				3C646136D16F12EC0483462A3FC8D11F /* Targets Support Files */,
 			);
@@ -187,6 +167,14 @@
 				E824C59C6D0693982C02DA3737D00C85 /* README.md */,
 			);
 			name = Pod;
+			sourceTree = "<group>";
+		};
+		BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				D35AF013A5F0BAD4F32504907A52519E /* iOS */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 		BFB9672A365EEB7548320D05CF1C3DF3 /* Development Pods */ = {
@@ -227,6 +215,14 @@
 			path = "Target Support Files/Pods-ISGUIViewExt_Example";
 			sourceTree = "<group>";
 		};
+		D35AF013A5F0BAD4F32504907A52519E /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */,
+			);
+			name = iOS;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
@@ -238,12 +234,12 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		BB6012CEA3E09F253F66A2CF22607570 /* Headers */ = {
+		6ECD39166D1490D66AE69F7BFB6EF863 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				31E30C3D5B0564AD93B105A6FAE6355C /* ISGUIViewExt-umbrella.h in Headers */,
-				56126AEAC306599BB9A2DC403891A7C6 /* ISGUIViewExt.h in Headers */,
+				4B1E50F6F8C97F0136780D5887D0C99D /* ISGUIViewExt-umbrella.h in Headers */,
+				474DDBA559480718BE13E1B29C89BA57 /* ISGUIViewExt.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -258,13 +254,13 @@
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		1ABCA85588DA99D3F0207115382BEC75 /* ISGUIViewExt */ = {
+		47D6C0E61EEEC53B5B2D8869502F063B /* ISGUIViewExt */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 33BF51307747839468E3C323D9B09D48 /* Build configuration list for PBXNativeTarget "ISGUIViewExt" */;
+			buildConfigurationList = 284AB5CFBC88C27A8628BAC1641C9F74 /* Build configuration list for PBXNativeTarget "ISGUIViewExt" */;
 			buildPhases = (
-				CCB03FC57F93E43FC251024FFB92DD83 /* Sources */,
-				B3219E1A4F1B982F5F18C2A78DEBCE68 /* Frameworks */,
-				BB6012CEA3E09F253F66A2CF22607570 /* Headers */,
+				F01A133650059C9AD47F7A130D8FE9DB /* Sources */,
+				EDD77B3BFA7FCA8C30F791019707B31A /* Frameworks */,
+				6ECD39166D1490D66AE69F7BFB6EF863 /* Headers */,
 			);
 			buildRules = (
 			);
@@ -331,7 +327,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				1ABCA85588DA99D3F0207115382BEC75 /* ISGUIViewExt */,
+				47D6C0E61EEEC53B5B2D8869502F063B /* ISGUIViewExt */,
 				EE766B447E3EBDF3B0BB6FB872F169D0 /* Pods-ISGUIViewExt_Example */,
 				D8EFB5C5A1AA37CA55809F9FEF6C7A6D /* Pods-ISGUIViewExt_Tests */,
 			);
@@ -339,15 +335,6 @@
 /* End PBXProject section */
 
 /* Begin PBXSourcesBuildPhase section */
-		CCB03FC57F93E43FC251024FFB92DD83 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				B2F5D9BB17ABB90AFCEDDE5E0FF4BDE1 /* ISGUIViewExt-dummy.m in Sources */,
-				77E1E46778FF79A8B4B1796C86139C86 /* ISGUIViewExt.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		CDEB3920D61780E980D902BF2ED0C9AC /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -364,13 +351,22 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		F01A133650059C9AD47F7A130D8FE9DB /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FD118DFFB63AB31A5DA417717C943281 /* ISGUIViewExt-dummy.m in Sources */,
+				B6B69D51D85C49637CC974D83DB3136D /* ISGUIViewExt.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
 		4DE15A4A5E22A47903D5219C4FC7AF60 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = ISGUIViewExt;
-			target = 1ABCA85588DA99D3F0207115382BEC75 /* ISGUIViewExt */;
+			target = 47D6C0E61EEEC53B5B2D8869502F063B /* ISGUIViewExt */;
 			targetProxy = 94B06ADF18C2A3C21C1D2C0BAC8A82AB /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -562,7 +558,7 @@
 			};
 			name = Release;
 		};
-		BEF40F22CB2B8F05ABD9EE7122B8635D /* Debug */ = {
+		AC60D3558A94D74AAAD6F40B59D43B1C /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = B7B14E8ADACD1BAB574BF40326CA4794 /* ISGUIViewExt.xcconfig */;
 			buildSettings = {
@@ -590,6 +586,36 @@
 				VERSION_INFO_PREFIX = "";
 			};
 			name = Debug;
+		};
+		D77C14D1B66D4A375738175651CB5517 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = B7B14E8ADACD1BAB574BF40326CA4794 /* ISGUIViewExt.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/ISGUIViewExt/ISGUIViewExt-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/ISGUIViewExt/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/ISGUIViewExt/ISGUIViewExt.modulemap";
+				PRODUCT_NAME = ISGUIViewExt;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
 		};
 		E370BBB7BBE53C91CC01D16C917A3036 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -622,36 +648,6 @@
 				VERSION_INFO_PREFIX = "";
 			};
 			name = Debug;
-		};
-		FA0EFC8256C90B8473AEE5FFDFC1CC41 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = B7B14E8ADACD1BAB574BF40326CA4794 /* ISGUIViewExt.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/ISGUIViewExt/ISGUIViewExt-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/ISGUIViewExt/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/ISGUIViewExt/ISGUIViewExt.modulemap";
-				PRODUCT_NAME = ISGUIViewExt;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
 		};
 		FA11C79E2A23E1E00FDB4D0772A8B1FA /* Release */ = {
 			isa = XCBuildConfiguration;
@@ -689,20 +685,20 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+		284AB5CFBC88C27A8628BAC1641C9F74 /* Build configuration list for PBXNativeTarget "ISGUIViewExt" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AC60D3558A94D74AAAD6F40B59D43B1C /* Debug */,
+				D77C14D1B66D4A375738175651CB5517 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5011B865762FC0C0A28ECEC4CB63DC68 /* Debug */,
 				827269710C98D60C14D46BC6AF9BF728 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		33BF51307747839468E3C323D9B09D48 /* Build configuration list for PBXNativeTarget "ISGUIViewExt" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				BEF40F22CB2B8F05ABD9EE7122B8635D /* Debug */,
-				FA0EFC8256C90B8473AEE5FFDFC1CC41 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

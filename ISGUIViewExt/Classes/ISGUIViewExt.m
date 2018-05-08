@@ -1,9 +1,9 @@
 //
 //  ISGUViewExt.m
-//  ZJServer
+//  简书：https://www.jianshu.com/u/7e1b920cdac1
 //
 //  Created by isaac on 16/5/30.
-//  Copyright © 2016年 ultrapower. All rights reserved.
+//  Copyright © 2016年 isaac. All rights reserved.
 //
 
 #import "ISGUIViewExt.h"

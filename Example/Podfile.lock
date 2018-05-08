@@ -1,5 +1,5 @@
 PODS:
-  - ISGUIViewExt (0.1.0)
+  - ISGUIViewExt (1.0)
 
 DEPENDENCIES:
   - ISGUIViewExt (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  ISGUIViewExt: e4953cd9c29e80972ae32b38bffc8fd04a354674
+  ISGUIViewExt: a8b42d02234df731c970c92eab8c1a7dba9ebd39
 
 PODFILE CHECKSUM: de6eb2e6f4d1fc61297204b2c144c356935ee103
 

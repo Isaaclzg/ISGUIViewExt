@@ -59,13 +59,13 @@
 		6003F5B9195388D20070C39A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		6003F5BB195388D20070C39A /* Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Tests.m; sourceTree = "<group>"; };
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
-		6DCC64DFDA28DFB48914D9DD /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		706FC3648B3E05172047EDC1 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		6DCC64DFDA28DFB48914D9DD /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		706FC3648B3E05172047EDC1 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		8B347AA9A6CBD8595F110AB2 /* Pods-ISGUIViewExt_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ISGUIViewExt_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ISGUIViewExt_Example/Pods-ISGUIViewExt_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		A686345213C83CEBE08AD0EC /* Pods-ISGUIViewExt_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ISGUIViewExt_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-ISGUIViewExt_Tests/Pods-ISGUIViewExt_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		DCA6DA267077DD6B0DE4815F /* ISGUIViewExt.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = ISGUIViewExt.podspec; path = ../ISGUIViewExt.podspec; sourceTree = "<group>"; };
+		DCA6DA267077DD6B0DE4815F /* ISGUIViewExt.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = ISGUIViewExt.podspec; path = ../ISGUIViewExt.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		E51F472E203A3CE3A2DE32CF /* Pods-ISGUIViewExt_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ISGUIViewExt_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ISGUIViewExt_Tests/Pods-ISGUIViewExt_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
